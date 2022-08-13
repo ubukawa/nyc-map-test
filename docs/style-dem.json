@@ -6918,8 +6918,8 @@
     }
   ],
   "terrain": {
-    "source": "terrainSource",
-    "exaggeration": 3
+    "source": "dem",
+    "exaggeration": 1
   },
   "sources": {
     "v": {
